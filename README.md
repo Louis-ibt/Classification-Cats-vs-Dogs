@@ -42,7 +42,7 @@ VGG16 (Transfer Learning)
 | Stage | Description | Accuracy | Key Implementation |
 |-------|-------------|----------|-------------------|
 | Base CNN | Initial implementation with basic convolutional layers | 85% | Custom CNN architecture |
-| Data Augmentation | Added image augmentation and preprocessing | 88% | Random rotations, flips, zooms |
+| Data Augmentation (not used in final code) | Code prepared but not applied | 88% | Random rotations, flips, zooms |
 | Transfer Learning | Implemented VGG16 with fine-tuning | 95% | Pretrained VGG16, custom top layers |
 
 ### Final Performance
